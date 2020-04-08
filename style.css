@@ -1,4 +1,15 @@
-window.
-    body {
-        background-image: url(./Images/Map\ of\ middle\ earth.jpg\);
-    }   
+body {
+    background-color: linen;
+    padding-right: 3%;
+    padding-left: 5%;
+
+ 
+}
+
+h1 {
+    font-size: 90px;
+    text-align: center;
+    font-stretch: extra-expanded;
+    font-family: 'Niconne', cursive;
+
+}
