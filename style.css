@@ -2,8 +2,6 @@ body {
     background-color: linen;
     padding-right: 3%;
     padding-left: 3%;
-
- 
 }
 
 h1 {
@@ -22,13 +20,13 @@ img {
     height: 350px;
     width: 30%;
 }
-.footer {
-    font-size: 2px;   
+.footer {  
     position: fixed;
+    font-size: 15px;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: yellow;
-    color:black;
+    background-color: black;
+    color: yellow;
     text-align: center;
  }
